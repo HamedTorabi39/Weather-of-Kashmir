@@ -5,4 +5,4 @@ This notebook examines messages from a Telegram channel reporting on the weather
 Kashmir is a historically and geographically significant region located in the northernmost part of the Indian subcontinent. It has been a focal point of political conflict and cultural diversity, with a complex history that continues to influence its status today.
 ## Geography of Kashmir
 Kashmir features a diverse landscape characterized by mountains, valleys, rivers, and lakes. It is primarily traversed by the Western Himalayas, with notable peaks including K2. The region is drained by major rivers such as the Indus, Jhelum, and Chenab. The climate varies significantly across different areas due to altitude differences, ranging from humid subtropical in Jammu to a more arid Tibetan climate in Ladakh23.
-![Uploading Shikara-boats-on-Dal-lake-Srinagar.jpg…]()
+![Shikara-boats-on-Dal-lake-Srinagar](https://github.com/user-attachments/assets/ca5dbdf2-ac80-4950-9a04-ee37aff7b9e8)
